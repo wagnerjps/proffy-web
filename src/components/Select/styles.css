@@ -33,6 +33,11 @@
     bottom: 0;
 }
 
+.select-block select option {
+    font: 400 1.8rem Archivo;
+    margin-top: 2.3rem;
+}
+
 @media(min-width: 700px) {
 
     .select-block + .select-block {
